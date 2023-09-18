@@ -1,0 +1,28 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+    background-color: gray;
+}
+header {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(195, 53, 53);
+    text-align: center;
+    border: 2px solid black;
+    border-width: 7px;
+    border-right: 7px;
+}
+h1{
+    size: 120px;
+    font-family:  kanit;
+    height: 100px;
+}
+h2{
+    size: 40px;
+    font-style: kanit;
+    
+}
