@@ -1,0 +1,24 @@
+table{
+    width: 50%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    border-collapse: 4px color black;
+
+
+    
+}
+tbody tr:nth-of-type(odd){
+
+background-color: blueviolet;
+
+
+}
+tr, td{
+    padding: 1em;
+    border: 3px solid #023;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
