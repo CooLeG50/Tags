@@ -3,8 +3,8 @@ table{
 
     font-family: 'Times New Roman', Times, serif;
 
-    border-collapse: 4px color black;
-
+   
+border-collapse: collapse;
 
     
 }
